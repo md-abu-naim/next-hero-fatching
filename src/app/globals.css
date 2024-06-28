@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+h6 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 3rem;
+}
